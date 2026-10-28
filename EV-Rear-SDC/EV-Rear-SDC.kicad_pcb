@@ -391,7 +391,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28548/vjw1bcbascomseries.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -413,8 +413,99 @@
 				)
 			)
 		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Vishay-Vitramon/VJ0805Y105KXQTW1BC?qs=F2lBERbFaaHnNHh23%2Flzkg%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d651dfcc-3072-431b-bbfc-8a0ddc8f2cf8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/vishay-vitramon/VJ0805Y105KXQTW1BC/7604612?s=N4IgTCBcDaIGoCkAMAOJBWAmgRgwaQA0BFAFQHVsAhAYRAF0BfIA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3803bc39-7215-4df7-aa10-bc959cf46ceb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PN" "77-VJ0805Y105KXQTBC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "93a5d8d5-ee87-48ee-9582-ab74dd7b88e6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "720-1757-1-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e54e3300-fcb9-496e-bd20-6df8a9aa9660")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFP" "VJ0805Y105KXQTW1BC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84e0e873-895e-4f13-91ce-a8609932350c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "0.196"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8dc80a1f-5945-4b3d-b2b0-51e575e2d493")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "0.160"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8966f22-0862-41ee-8dc2-ba2fddba06bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
-		(path "/eca47d03-bc55-4372-8c21-7e0dd440b21c")
+		(path "/a8e14643-2837-478d-b276-fbaba49fd7c8")
 		(sheetname "/")
 		(sheetfile "EV-Rear-SDC.kicad_sch")
 		(units
@@ -1255,7 +1346,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eXA-WB.pdf?66ec759629c9e"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -1274,6 +1365,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "B06B-XASK-1(LF)(SN)"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9e1599b-4ff0-4f66-9a5a-1efcd0ff5de9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/JST-Commercial/S06B-XASK-1LFSN?qs=QpmGXVUTftETF7tVTkyNPw%3D%3D"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1418efdf-3633-4da1-a671-4268760271fa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PN" "306-B06BXASK1LFSN"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e1ec1700-b58f-4a10-b71c-8be52bb3f9fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "0.263"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05948143-77fd-4a7c-a049-769ef74f5b29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/B06B-XASK-1/1634737?s=N4IgTCBcDaIEIAYBscC0ANAggZQNKoEYAKAGQDEBKI7AOQpAF0BfIA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "baf6b2da-63b6-424c-8a48-e5565615851f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "455-B06B-XASK-1-ND"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e6a92e4-dc81-46a0-bb86-42792fb6dbef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "0.26"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0539b916-6495-400b-b0ec-4c7e1faae87e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2121,6 +2303,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "S1PN" "595-TXE8116RGER"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ead8ad03-7cf0-4942-aa93-5425f19a54c6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Texas-Instruments/TXE8116RGER?qs=dhCoiiGcT1Lkj9imJmkoKg%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67133a45-80b9-4370-a3e5-3da26e8b5884")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/texas-instruments/TXE8116RGER/29715214?s=N4IgTCBcDaICoA0CiAOAjGgbAJQOJOxAF0BfIA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8473d61c-9536-479c-9ceb-ce2fb053563a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "296-TXE8116RGERTR-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d0d1de2-b198-4da3-ae68-65230d0e7266")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFP" "TXE8116RGER"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be815fad-c14f-4a3a-aeca-11b8cc7f2620")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "1.04"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "18d0b064-b240-47f6-a6da-338931f0f058")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "1.02"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5f8eb0c0-dcd5-4191-8224-ee1662601d61")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8039,7 +8312,7 @@
 				)
 			)
 		)
-		(property "MFP" "G6RN-1A DC12"
+		(property "MFP" "G6RN-1A DC24"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8052,7 +8325,7 @@
 				)
 			)
 		)
-		(property "S1PN" "653-G6RN-1A-DC12"
+		(property "S1PN" "653-G6RN-1A-DC24"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8065,7 +8338,7 @@
 				)
 			)
 		)
-		(property "S1PL" "https://mou.sr/4hHsX0d"
+		(property "S1PL" "http://mouser.co.uk/en/ProductDetail/Aratas/G6RN-1A-DC24?qs=PuRzBkp%252Brz4kphORjB3GsQ%3D%3D"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8078,7 +8351,7 @@
 				)
 			)
 		)
-		(property "S2PN" "Z988-ND"
+		(property "S2PN" "Z2347-ND"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8091,7 +8364,7 @@
 				)
 			)
 		)
-		(property "S2PL" "https://www.digikey.co.uk/short/5w20v31b"
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/aratas-formerly-omron-components/G6RN-1A-DC24/369233"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9103,7 +9376,7 @@
 			(size 1.025 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.243902)
-			(net "unconnected-(R12-Pad2)")
+			(net "Net-(D4-A)")
 			(pintype "passive")
 			(uuid "3626ac1c-c7dd-43c1-b81f-165a0ebe1f6c")
 		)
@@ -9873,6 +10146,97 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "72dbb335-1d10-420a-9953-2a6e3a605894")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Vishay-Semiconductors/1N4148W-E3-08?qs=bTzheeSci6TVjpxfjjRVMw%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53e58c0d-1da1-494a-85c4-0e1490d0772e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PN" "78-1N4148W-E3-08"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0b3dab1-1b0b-419f-b523-d031a7e0e924")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFP" "1N4148W-E3-08"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f2be237-e93d-4900-b869-6f2668a7c621")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/vishay-general-semiconductor-diodes-division/1N4148W-E3-08/3104162?s=N4IgTCBcDaIIwDkAsckA4DqBaAogZiwAY0QBdAXyA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "79be9b74-617c-429a-920b-c284723501b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "1N4148W-E3-08TR-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "53a2295b-5daf-44c7-a572-24ee2618e5b1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "0.292"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c0357a7-3b8e-400a-a83c-333600291d60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "0.29"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9ef5ebc2-0fa8-47b9-8785-fd27d2f90466")
 			(effects
 				(font
 					(size 1 1)
@@ -10997,7 +11361,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/45230/ga31gautomlccsold.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11019,8 +11383,99 @@
 				)
 			)
 		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Vishay-Vitramon/GA0805Y104JXABT31G?qs=lYGu3FyN48dXWPuy2DJQ2Q%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "67355bff-9efc-4b95-845a-961bfd6fd315")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/vishay-vitramon/GA0805Y104JXABT31G/8518887?s=N4IgTCBcDaIOIEEAMAOJBWAmgRiQFgCkANBAIQBUBmbOEAXQF8g"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "faa066b5-48df-49be-8b0d-00993f7f768a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PN" "77-GA805Y104JXABT31G"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b0c128d4-9abb-40f2-b771-b887b3d0e1cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "720-GA0805Y104JXABT31GCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3ff816b-d26c-4572-bfbd-51122f3d7280")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFP" "GA0805Y104JXABT31G"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "98d75622-5f88-4f44-b714-4016a9c3de88")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "0.37"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "008ecdec-94af-46f1-b499-c786fa0d9025")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "0.368"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b44f2efd-34b8-4ae5-ae5e-8cf42f78e2ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
-		(path "/60abfd53-27e8-493e-924c-3e7a00ed3af2")
+		(path "/2d265acf-28b8-4aa1-8e97-53eca79675f9")
 		(sheetname "/")
 		(sheetfile "EV-Rear-SDC.kicad_sch")
 		(units
@@ -11399,6 +11854,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/JST-Commercial/B05B-XASK-1-ALFSN?qs=QpmGXVUTftE6Esdg1OYCgw%3D%3D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "90b0f9df-27f5-4f4f-a0f3-39504a48c0aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PN" "306-B05BXASK1ALFSN"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "724d00ee-a87d-4a81-8b99-d4c8268ee08d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MFP" "B05B-XASK-1-A"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9bb23ab3-aba2-4ec7-9433-e73d254a4d13")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/B05B-XASK-1-A/7230461?s=N4IgTCBcDaIEIAYCscC0ANAggZQNKoEZVMAKAGQDEBKE7AOSpAF0BfIA"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2438b1e6-55dd-49a3-a5f9-1658504b6df9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "455-B05B-XASK-1-A-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10d871db-d013-4d0f-91cc-421ece8d8e01")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "0.233"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e16c1d6a-0ac7-4512-bc0f-f13100e0f9a6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "0.230"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8f9ba3cc-7b9a-49f8-bd9c-777e6ece6d86")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -13437,7 +13983,7 @@
 			(size 0.975 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(D4-K-Pad1)")
+			(net "TSAL_S")
 			(pinfunction "K_1")
 			(pintype "passive")
 			(uuid "4cc1f9ac-aab3-4f32-950a-f14f0b0334cf")
@@ -13447,7 +13993,7 @@
 			(size 0.975 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
-			(net "unconnected-(D4-A-Pad2)")
+			(net "Net-(D4-A)")
 			(pinfunction "A_2")
 			(pintype "passive")
 			(uuid "2add3683-fcf2-4a18-826b-8bb2c791cede")
@@ -14368,6 +14914,97 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MFP" "B08B-XASK-1-A(LF)(SN)"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1dc5968b-8718-4596-be95-79a68c69574d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PL" "http://mouser.co.uk/en/ProductDetail/JST-Commercial/B08B-XASK-1-ALFSN?qs=QpmGXVUTftHjBuoGTi%2FN1Q%3D%3D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ffa5646-3cc3-46b1-bcb5-5a22d48a3040")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PN" "306-B08BXASK1ALFSN"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6dd8e317-605e-474a-8db5-8b7bccfc21b8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/B08B-XASK-1-A/9951631?s=N4IgTCBcDaIEIAYAccC0ANAggZQNKoEZVMAKAGQDEBKE7AOSpAF0BfIA"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1332c372-639f-4f0d-ab19-517e68afc015")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PN" "455-4122-ND"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f175784a-3321-40f4-b598-5adc130bd1a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S1PRICE" "0.346"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2b4c9023-a0d4-43b2-b73e-16bb6553fd69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "S2PRICE" "0.34"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "372f131e-c3ce-4a51-b5f8-d4397b398d8e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -17999,7 +18636,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/45230/ga31gautomlccsold.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -18023,8 +18660,106 @@
 				(justify mirror)
 			)
 		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Vishay-Vitramon/GA0805Y104JXABT31G?qs=lYGu3FyN48dXWPuy2DJQ2Q%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "eb7fb8f9-c45e-481f-9820-3a78160fd421")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/vishay-vitramon/GA0805Y104JXABT31G/8518887?s=N4IgTCBcDaIOIEEAMAOJBWAmgRiQFgCkANBAIQBUBmbOEAXQF8g"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "64fd5bad-2263-4ed1-b794-b3659a328c04")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S1PN" "77-GA805Y104JXABT31G"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "40b582e9-c20e-4350-bf36-43b9ad721929")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PN" "720-GA0805Y104JXABT31GCT-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6b30455e-4415-4df6-b6f4-f441887fdca2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFP" "GA0805Y104JXABT31G"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4f3d97b4-d2e1-473c-bb8a-48cd72dea507")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S1PRICE" "0.37"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3433f8d7-df64-4a21-aeda-c9dfa539bd58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PRICE" "0.368"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "59e3180d-f95a-49c5-b593-0c28e6976086")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
-		(path "/ac98c338-4e1b-4fe2-b69e-9a98595ccdb4")
+		(path "/759ac86a-f0e8-4190-9ac9-79d877b3f238")
 		(sheetname "/")
 		(sheetfile "EV-Rear-SDC.kicad_sch")
 		(units
@@ -18570,7 +19305,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28548/vjw1bcbascomseries.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -18594,8 +19329,106 @@
 				(justify mirror)
 			)
 		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Vishay-Vitramon/VJ0805Y106KXQTW1BC?qs=5aG0NVq1C4w%2FL%2Fc50FdR6A%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cc2f9b0a-cd4e-4ca1-929e-194b9b53f6c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/vishay-vitramon/VJ0805Y106KXQTW1BC/27786058?s=N4IgTCBcDaIGoCkAMAOJBWAmgRiQNgGkANARQBUB1bAIQGEQBdAXyA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "613aed38-20ce-4e87-a8bc-22dd059dfe3b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S1PN" "77-VJ0805Y106KXQTWBC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "abab7ec0-924b-45a3-a9ef-7c6b067e2d20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PN" "720-VJ0805Y106KXQTW1BCTR-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7786cb46-ab0e-4205-b923-f118fc35d621")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFP" "VJ0805Y106KXQTW1BC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "89f36d06-9d88-41dd-a35e-800b32dbf3dd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S1PRICE" "0.361"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0aa7cafc-028d-44a3-ac3b-fda74c54dd8b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PRICE" "0.38"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8ebf7f3e-0462-4933-959e-598478ff6e52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
-		(path "/02cee15d-08f5-4596-8996-072057fb0a00")
+		(path "/75d20c0f-3d50-4ccf-b724-0cb865933d35")
 		(sheetname "/")
 		(sheetfile "EV-Rear-SDC.kicad_sch")
 		(units
@@ -20883,7 +21716,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.vishay.com/docs/28548/vjw1bcbascomseries.pdf"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -20907,8 +21740,106 @@
 				(justify mirror)
 			)
 		)
+		(property "S1PL" "https://www.mouser.co.uk/en/ProductDetail/Vishay-Vitramon/VJ0805Y105KXQTW1BC?qs=F2lBERbFaaHnNHh23%2Flzkg%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0835b718-03fd-496c-9efd-7929f05ec07c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PL" "https://www.digikey.co.uk/en/products/detail/vishay-vitramon/VJ0805Y105KXQTW1BC/7604612?s=N4IgTCBcDaIGoCkAMAOJBWAmgRgwaQA0BFAFQHVsAhAYRAF0BfIA"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "07bcab31-d38b-48be-a851-36bc3b4f6485")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S1PN" "77-VJ0805Y105KXQTBC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "cb18f8e8-fe0f-4909-aacf-d378b455b601")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PN" "720-1757-1-ND"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "634047c6-8a00-4df6-997d-68a75394379f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MFP" "VJ0805Y105KXQTW1BC"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "de965be7-d968-41c8-9160-a7f182782a98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S1PRICE" "0.196"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8763848f-07bf-4502-b79f-11f43fa8f7d7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "S2PRICE" "0.160"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "6477d520-f871-4111-b8b0-9532151d96bb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
 		(property ki_fp_filters "C_*")
-		(path "/5ffda352-7a07-42a6-a3b8-a0789b776c88")
+		(path "/0469602c-a8e4-4588-86a3-7725ad4c69fd")
 		(sheetname "/")
 		(sheetfile "EV-Rear-SDC.kicad_sch")
 		(units
@@ -23936,14 +24867,6 @@
 		)
 	)
 	(segment
-		(start 67.57 121.41)
-		(end 69.2775 121.41)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "")
-		(uuid "2175d99b-9757-4753-a564-1df3b774d8fd")
-	)
-	(segment
 		(start 81.5 119.425)
 		(end 81.5 118.15)
 		(width 0.2)
@@ -26758,6 +27681,14 @@
 		(layer "B.Cu")
 		(net "+24V")
 		(uuid "cdca2312-86c4-406e-ab2d-e823d3985005")
+	)
+	(segment
+		(start 67.57 121.41)
+		(end 69.2775 121.41)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "Net-(D4-A)")
+		(uuid "2175d99b-9757-4753-a564-1df3b774d8fd")
 	)
 	(segment
 		(start 76.12 131.0825)
